@@ -1,0 +1,76 @@
+/*Estilo pagina home*/
+
+
+.center 
+{
+    text-align: center;
+}
+
+.justify
+{
+    text-align: justify;
+}
+
+.container 
+{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li 
+{
+    display: inline;
+    padding: 20px;
+
+}
+
+#menu li a 
+{
+    text-decoration: none;
+    color: pink;
+}
+
+#menu li a:hover
+{
+    background-color: palevioletred;
+    padding: 25px;
+}
+
+.pmargin 
+{
+    padding: 30px;
+}
+
+.br
+{
+    border-radius: 50%;
+}
+
+.wh 
+{
+    width: 320px;
+    height: 345px ;
+}
+
+.tm-social
+{
+    width: 50px;
+    height: 50px;
+}
+
+.mbottom 
+{
+    margin-bottom: 50px;
+}
+
+.mlefrig
+{
+    
+    background-color: palevioletred;
+    color: pink;
+    padding: 50px;
+}
+
+/*Estilo pagina contato*/
